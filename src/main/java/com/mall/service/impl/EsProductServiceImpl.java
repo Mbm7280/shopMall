@@ -3,7 +3,7 @@ package com.mall.service.impl;
 
 import com.mall.dao.EsProductDao;
 import com.mall.nosql.elasticsearch.document.EsProduct;
-import com.mall.nosql.repository.EsProductRepository;
+import com.mall.nosql.elasticsearch.repository.EsProductRepository;
 import com.mall.service.EsProductService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.mall.nosql.repository;
+package com.mall.nosql.elasticsearch.repository;
 
 
 import com.mall.nosql.elasticsearch.document.EsProduct;
